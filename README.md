@@ -1,4 +1,1 @@
-Name: Naqiya Nullwala
-Branch: IT Engineering
-Subject: Open Source Development
-Practical No.: 2
+This practical demonstrates Git and GitHub basics using a calculator project.
